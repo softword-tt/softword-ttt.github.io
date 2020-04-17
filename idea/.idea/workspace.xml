@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ea50810-6742-4644-8425-ab5af059723f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XKbGnpcqv8I9f9Sji6k6wcFaMj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ea50810-6742-4644-8425-ab5af059723f" name="Default Changelist" comment="" />
+      <created>1580797640889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580797640889</updated>
+      <workItem from="1580797647288" duration="628000" />
+      <workItem from="1581144507820" duration="254000" />
+      <workItem from="1581144796498" duration="314000" />
+      <workItem from="1581732399723" duration="627000" />
+      <workItem from="1582111387299" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="0" key="SettingsEditor" timestamp="1581734404913">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1581734404913" />
+    <state x="337" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1582111386400">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="337" y="174" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1582111386400" />
+    <state x="23" y="22" width="1224" height="642" key="new project wizard" timestamp="1582111538540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="23" y="22" width="1224" height="642" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1582111538540" />
+  </component>
+</project>
